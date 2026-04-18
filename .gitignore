@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv_production/
+.venv/
+.env
+
+# Data and Models
+data/
+ciplab_dataset/
+*.zip
+*.log
+
+# Sensitive Info
+kaggle.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
