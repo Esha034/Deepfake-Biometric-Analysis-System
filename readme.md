@@ -3,7 +3,9 @@
 ## 🎯 Project Objective
 The primary objective of this project is to develop a production-grade Deep Learning pipeline for the detection of AI-generated (Deepfake) facial manipulations. By leveraging compound-scaled neural networks and advanced optimization techniques, the system identifies subtle physiological artifacts that distinguish synthetic imagery from authentic photographs.
 
-## 🖼️ Graphical Abstract
+Live Demo: https://deepfake-face-detector.streamlit.app/ (DeepFake Face Detector)
+
+##  Graphical Abstract
 
 ```mermaid
 graph LR
